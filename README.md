@@ -1,7 +1,7 @@
 
 # Aprenda Ansible na prática.  
- Curso guiado. 
- Créditos ( Mário Santana - https://www.linkedin.com/in/mariosantana86/ )
+
+ Curso guiado - Créditos ( Mário Santana - https://www.linkedin.com/in/mariosantana86/ )
  
  Link Oficial : https://www.youtube.com/watch?v=Os0Uo5VXxNU&list=PLORF-y_edVoDQnky9u2OgyrfirE1dhutX
 
