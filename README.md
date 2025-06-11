@@ -5,8 +5,6 @@
  
  Créditos ( Mário Santana - https://www.linkedin.com/in/mariosantana86/ )
  
- Link Oficial : https://www.youtube.com/watch?v=Os0Uo5VXxNU&list=PLORF-y_edVoDQnky9u2OgyrfirE1dhutX
-
 #  Ansible
 Ferramenta de automação de código aberto ( (Infrastructure as Code) usada para gerenciar configurações, provisionar infraestrutura e automatizar tarefas repetitivas em servidores e sistemas.
 
